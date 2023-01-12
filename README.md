@@ -6,3 +6,4 @@
 4. CS FUNDAMENTAL TOPICS-  https://cs-subjects.netlify.app/
 5. https://leetcode.com/discuss/interview-question/313216/Binary-search-Interview-Questions
 6. https://leetcode.com/discuss/interview-question/2882956/My-6-months-Coding-Journey-or-400-Questions-or-Recession-or-Placement-or-Learning -IITR SENIOR PLACEMENT 2022
+7. Journey of rejections to offer UBER | TWITTER | ADOBE | WELLS FARGO | MORGAN STANLEY | QUALCOMM- https://leetcode.com/discuss/interview-question/1545777/Journey-of-rejections-to-offer-UBER-or-TWITTER-or-ADOBE-or-WELLS-FARGO-or-MORGAN-STANLEY-or-QUALCOMM
